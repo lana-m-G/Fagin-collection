@@ -2,5 +2,5 @@ field,display,search
 date,Date,true
 creator,Creator,true
 subject,Subjects,true
-location,Location,true
+location,Location,false
 format,Format,
