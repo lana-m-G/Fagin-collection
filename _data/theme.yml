@@ -7,7 +7,7 @@ title: The Fagin Collection
 metadata: collectbuilder-metadata.csv  
 # repository is the github repository's full url: 
 # replace CollectionBuilder with your GitHub username and replace 'collectionbuilder-gh' with the name of your repository
-repository: https://github.com/CollectionBuilder/collectionbuilder-gh
+repository: https://github.com/lana-m-G/Fagin-collection
 
 # WEBSITE HEADER and HEAD metadata for SEO
 # tagline, a short phrase that will appear throughout the site in the top banner
