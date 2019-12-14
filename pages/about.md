@@ -1,6 +1,3 @@
-
-
-
 # About 
 
 ![alt text](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/fagin_about.jpg "Helen Fagin at Jane Bancroft Cook Library")
