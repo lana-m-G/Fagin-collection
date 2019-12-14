@@ -13,7 +13,7 @@ collection-date: "2019"
 # url is your gh-pages base, following the pattern: username.github.io
 url: username.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: / Fagin-collection
+baseurl: / collectionbuilder-gh
 
 
 # google services [optional!]
