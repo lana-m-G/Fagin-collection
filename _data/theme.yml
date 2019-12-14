@@ -16,14 +16,14 @@ tagline: The digital collection of Holocaust survivor and educator Helen Fagin
 # this description might appear in search result lists, keep around 160 characters max
 description: "A small but growing collection around Holocaust survivor and educator Helen Fagin"
 # keywords appear in meta tags
-keywords: "Helen Fagin, digital collection, Jane Bancroft Cook Library"
+keywords: "Helen Fagin, Holocaust"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Lana G
 
 
 # HOME PAGE SECTION
 # give full filename including folder. This image will also appear in meta tags for search and social media
-home-banner-image: "![alt text](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img005%20(1).jpg)"
+home-banner-image: "https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img005%20(1).jpg"
 # enter object-id of the above item in order to link to the featured image
 home-banner-image-objectid: img005(1).jpg
 # give title of the image for accessibility
