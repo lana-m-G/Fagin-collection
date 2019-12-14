@@ -1,6 +1,6 @@
-title: About
+{%title: About
 layout: page
-permalink: /about/
+permalink: /about/%}
 
 
 # About 
