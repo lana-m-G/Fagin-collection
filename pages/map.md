@@ -1,5 +1,3 @@
-%carasol
-
 ![alt text](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img004%20(1).jpg "Holocaust survivor sees lesson lost by students")
 
 ![alt text](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img004.jpg "Holocaust is not just a Jewish matter")
