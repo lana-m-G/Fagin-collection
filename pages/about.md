@@ -1,3 +1,12 @@
+---
+title: About
+layout: page
+permalink: /about/
+# add image to index page bootstrap jumbotron featured-image: "fagin_about.jpg"
+---
+
+{% include index/jumbotron.html %}
+
 # About 
 
 ![alt text](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/fagin_about.jpg "Helen Fagin at Jane Bancroft Cook Library")
