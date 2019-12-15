@@ -34,18 +34,18 @@ permalink: /browse/
 
 ![Helen Fagin receives Holocaust Award](https://lana-m-g.github.io/Fagin-collection/objects/images/img023.jpg)
 
-![Services remember 1938 Nazi rampage](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img028.jpg)
+![Services remember 1938 Nazi rampage](https://lana-m-g.github.io/Fagin-collection/objects/images/img028.jpg)
 
-![Survivors of Holocaust share the painful past](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img029.jpg)
+![Survivors of Holocaust share the painful past](https://lana-m-g.github.io/Fagin-collection/objects/images/img029.jpg)
 
-![Survivors of Holocaust share the painful past, Pt.2](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img030.jpg)
+![Survivors of Holocaust share the painful past, Pt.2](https://lana-m-g.github.io/Fagin-collection/blob/master/objects/images/img030.jpg)
 
-![Six candles for six million victims, as survivor remembers Holocaust](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img033.jpg)
+![Six candles for six million victims, as survivor remembers Holocaust](https://lana-m-g.github.io/Fagin-collection/objects/images/img033.jpg)
 
-!["On behalf of President Reagan..."](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img034.jpg)
+!["On behalf of President Reagan..."](https://lana-m-g.github.io/Fagin-collection/objects/images/img034.jpg)
 
-!["...something we needed to hear..."](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img035.jpg)
+!["...something we needed to hear..."](https://lana-m-g.github.io/Fagin-collection/objects/images/img035.jpg)
 
-!["I wish to confirm the date on Sunday, October 16 at 4:00 p.m..."](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img037.jpg)
+!["I wish to confirm the date on Sunday, October 16 at 4:00 p.m..."](https://lana-m-g.github.io/Fagin-collection/objects/images/img037.jpg)
 
-!["A long overdue hello!"](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img039.jpg)
+!["A long overdue hello!"](https://lana-m-g.github.io/Fagin-collection/objects/images/img039.jpg)
