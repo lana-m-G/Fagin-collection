@@ -1,4 +1,8 @@
-
+---
+title: Data
+layout: page
+permalink: /data/
+---
 
 ## Collection as Data
 
