@@ -4,7 +4,7 @@ layout: page
 permalink: /browse/
 ---
 
-![alt text](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/img004%20(1).jpg)
+![alt text](/lana-m-G/Fagin-collection/objects/img004(1)/)
 
 !["Holocaust is not just a Jewish matter"](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img004.jpg)
 
