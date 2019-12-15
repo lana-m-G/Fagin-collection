@@ -4,6 +4,8 @@ layout: page
 permalink: /browse/
 ---
 
+![Bruce survivor sees lesson lost by students](https://lana-m-g.github.io/Fagin-collection/objects/img004%20(1).jpg)
+
 
 ![Holocaust survivor sees lesson lost by students](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/img004%20(1).jpg)
 
