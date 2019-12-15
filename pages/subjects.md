@@ -6,7 +6,7 @@ permalink: /subjects/
 
 ## Browse Subjects
 
-%antisemitism%
+antisemitism
 article
 award
 candles
