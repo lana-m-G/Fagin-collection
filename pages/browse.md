@@ -5,7 +5,7 @@ permalink: /browse/
 ---
 
 
-![Holocaust survivor sees lesson lost by students](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/img004%20(1).jpg)
+![Holocaust survivor sees lesson lost by students](https:../objects/img004%20(1).jpg)
 
 
 !["Holocaust is not just a Jewish matter"](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img004.jpg)
