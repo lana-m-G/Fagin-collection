@@ -23,11 +23,11 @@ author: Lana G
 
 # HOME PAGE SECTION
 # give full filename including folder. This image will also appear in meta tags for search and social media
-home-banner-image: "https://lana-m-g.github.io/Fagin-collection/objects/images/img005%20(1).jpg"
+home-banner-image: "https://lana-m-g.github.io/Fagin-collection/objects/images/fagin_about.jpg"
 # enter object-id of the above item in order to link to the featured image
-home-banner-image-objectid: img005(1).jpg
+home-banner-image-objectid: fagin_about.jpg
 # give title of the image for accessibility
-home-banner-image-title: A Hand in History 
+home-banner-image-title: About Helen Fagin 
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: # Default is 8em
 # optional: change position of image, center, top, bottom
