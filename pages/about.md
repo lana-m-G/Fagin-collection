@@ -2,10 +2,9 @@
 title: About
 layout: page
 permalink: /about/
-# add image to index page bootstrap jumbotron featured-image: "fagin_about.jpg"
 ---
 
-{% include index/jumbotron.html %}
+
 
 # About 
 
