@@ -6,46 +6,46 @@ permalink: /browse/
 
 ![Holocaust survivor sees lesson lost by students](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/img004%20(1).jpg)
 
-![alt text](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img004.jpg "Holocaust is not just a Jewish matter")
+!["Holocaust is not just a Jewish matter"](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img004.jpg)
 
-![alt text](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img005%20(1).jpg "A hand in history")
+![A Hand in History](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img005%20(1).jpg)
 
-![alt text](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img006%20(1).jpg "A hand in history + extra clips")
+![A Hand in History + extra articles](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img006%20(1).jpg)
 
-![alt text](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img011.jpg "One candle for each million")
+![One candle for each million](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img011.jpg)
 
-![alt text](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img012.jpg "One candle for each million, Pt.2")
+![One candle for each million, Pt.2](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img012.jpg)
 
-![alt text](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img013.jpg "I am always so touched when you speak...")
+!["I am always so touched when you speak..."](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img013.jpg)
 
-![alt text](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img014.jpg "On behalf of the Young Leadership Council of the Greater Miami Jewish Federation...")
+!["On behalf of the Young Leadership Council of the Greater Miami Jewish Federation..."](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img014.jpg)
 
-![alt text](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img015.jpg "I wish to thank you for taking the time...")
+!["I wish to thank you for taking the time..."](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img015.jpg)
 
-![alt text](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img016.jpg "I wish to thank you for taking the time...Pt.2")
+!["I wish to thank you for taking the time..." Pt.2](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img016.jpg)
 
-![alt text](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img017.jpg "We were delighted to have interviewed you...")
+!["We were delighted to have interviewed you..."](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img017.jpg)
 
-![alt text](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img018.jpg "I heard the pain, disappointment, frustration and sadness in your voice...")
+!["I heard the pain, disappointment, frustration and sadness in your voice...'](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img018.jpg)
 
-![alt text](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img019.jpg "I heard the pain, disappointment, frustration and sadness in your voice...Pt.2")
+!["I heard the pain, disappointment, frustration and sadness in your voice..." Pt.2](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img019.jpg)
 
-![alt text](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img020.jpg "I heard the pain, disappointment, frustration and sadness in your voice...Pt.3")
+!["I heard the pain, disappointment, frustration and sadness in your voice..." Pt.3](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img020.jpg)
 
-![alt text](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img023.jpg "Helen Fagin receives Holocaust Award")
+![Helen Fagin receives Holocaust Award](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img023.jpg)
 
-![alt text](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img028.jpg "Services remember 1938 Nazi rampage")
+![Services remember 1938 Nazi rampage](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img028.jpg)
 
-![alt text](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img029.jpg "Survivors of Holocaust share the painful past")
+![Survivors of Holocaust share the painful past](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img029.jpg)
 
-![alt text](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img030.jpg "Survivors of Holocaust share the painful past, Pt.2")
+![Survivors of Holocaust share the painful past, Pt.2](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img030.jpg)
 
-![alt text](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img033.jpg "Six candles for six million victims, as survivor remembers Holocaust")
+![Six candles for six million victims, as survivor remembers Holocaust](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img033.jpg)
 
-![alt text](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img034.jpg "On behalf of President Reagan...")
+!["On behalf of President Reagan..."](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img034.jpg)
 
-![alt text](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img035.jpg "...something we needed to hear...")
+!["...something we needed to hear..."](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img035.jpg)
 
-![alt text](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img037.jpg "I wish to confirm the date on Sunday, October 16 at 4:00 p.m...")
+!["I wish to confirm the date on Sunday, October 16 at 4:00 p.m..."](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img037.jpg)
 
-![alt text](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img039.jpg "A long overdue hello!")
+!["A long overdue hello!"](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img039.jpg)
