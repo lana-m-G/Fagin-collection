@@ -4,13 +4,13 @@ layout: page
 permalink: /browse/
 ---
 
-![Holocaust survivor sees lesson lost by students](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/img004%20(1).jpg)
+![Holocaust survivor sees lesson lost by students](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/img004%20(1).jpg "Holocaust survivor sees lesson lost by students")
 
-!["Holocaust is not just a Jewish matter"](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img004.jpg)
+!["Holocaust is not just a Jewish matter"](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img004.jpg "Holocaust is not just a Jewish matter")
 
-![A Hand in History](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img005%20(1).jpg)
+![A Hand in History](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img005%20(1).jpg "A Hand in History")
 
-![A Hand in History + extra articles](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img006%20(1).jpg)
+![A Hand in History + extra articles](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img006%20(1).jpg "A Hand in History + extra articles")
 
 ![One candle for each million](https://github.com/lana-m-G/Fagin-collection/blob/master/objects/images/img011.jpg)
 
